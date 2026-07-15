@@ -48,11 +48,11 @@
  
 <br/>
  
-<img src="https://skillicons.dev/icons?i=nodejs,python,rust,java,ruby,php,laravel&perline=7&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,rust,java,php&perline=5&theme=dark"/>
  
-<br/>
+<br/><br/>
  
-`Node.js` `Python` `Rust` `Java` `Ruby` `PHP` `Laravel`
+`Node.js` `Python` `Rust` `Java` `PHP`
  
 </td>
 </tr>
@@ -64,9 +64,9 @@
 
  <br/>
  
-<img src="https://skillicons.dev/icons?i=solidity,rust&perline=2&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=solidity,rust&perline=5&theme=dark"/>
  
-<br/>
+<br><br/>
  
 `Solidity` `Rust (Solana)`
 
@@ -79,6 +79,7 @@
   
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,n8n&perline=5&theme=dark"/>
  
+<br/>
 
  `Git` `GitHub` `VS Code` `Figma` `Notion` `N8N`
 
