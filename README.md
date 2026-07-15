@@ -5,7 +5,7 @@
   
   
   <h1 style="color:#00ffcc; text-shadow: 0 0 60px #ff00ff, 0 0 120px #00ffcc; font-family: 'Orbitron', sans-serif; font-size: 60px; animation: neonflicker 0.6s infinite; letter-spacing: 4px;">B I M A • Y U L I A N D R A </h1>  
-  <p style="color:#ff00ff; text-shadow: 0 0 40px #00ffcc; font-family: 'Share Tech Mono', monospace; font-size: 26px; letter-spacing: 2px;">>_ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɴᴇᴏɴ ʜᴇʟʟsᴄᴀᴘᴇ, ʏᴏᴜ ᴅᴀᴛᴀ-ᴅʀᴏᴡɴɪɴɢ ᴄʏʙᴇʀ-ʀᴀᴛ</p>  
+  <p style="color:#ff00ff; text-shadow: 0 0 40px #00ffcc; font-family: 'Share Tech Mono', monospace; font-size: 26px; letter-spacing: 2px;">>_ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴏᴏᴏᴏʙ</p>  
 </div>
 
 <div align="center" style="background: linear-gradient(135deg, #000, #1a1a1a, #2a2a2a, #3a3a3a, #000); border: 12px double #00ffcc; box-shadow: 0 0 70px #ff00ff, inset 0 0 35px #00ffcc; padding: 40px; border-radius: 35px; margin: 40px auto; animation: pulsate 0.8s infinite; max-width: 1200px;">  
