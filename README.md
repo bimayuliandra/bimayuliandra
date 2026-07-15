@@ -34,7 +34,7 @@
  
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,&perline=5&theme=dark"/>
 
 <br/>
  
@@ -48,7 +48,7 @@
  
 <br/>
  
-<img src="https://skillicons.dev/icons?i=nodejs,python,rust,java,ruby,php,laravel&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,rust,java,ruby,php,laravel&perline=7&theme=dark"/>
  
 <br/>
  
@@ -64,7 +64,7 @@
 
  <br/>
  
-<img src="https://skillicons.dev/icons?i=solidity,rust&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=solidity,rust&perline=2&theme=dark"/>
  
 <br/>
  
@@ -75,12 +75,11 @@
  
 ### `🛠️ TOOLS & WORKFLOW`
 
- <br/>
+  <br/>
+  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,n8n&perline=5&theme=dark"/>
  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,n8n&perline=8&theme=dark"/>
- 
-<br/>
- 
+
  `Git` `GitHub` `VS Code` `Figma` `Notion` `N8N`
 
 </td>
