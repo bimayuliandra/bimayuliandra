@@ -20,7 +20,7 @@
 
 <div align="center">
  
-## `⚡ TECH ARSENAL`
+## `HANDS-ON EXPERIENCE`
  
 </div>
  
